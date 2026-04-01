@@ -13,6 +13,7 @@ Repositório com meus exercícios e anotações de **Lua (Luau)** enquanto estud
 -🧑🏻‍🏫 Pasta [Aula-01](https://github.com/Aldertvdev/Lua-Coddy/blob/main/Aula-01) com exercícios iniciais
 -📝 Seções e explicações
  [sessão estrutura do curso](https://github.com/Aldertvdev/Lua-Coddy/blob/main/sess%C3%A3o%20estrutura%20do%20curso)
+-🧑🏻‍💻 Desafios Diferentes [Desafios](https://github.com/Aldertvdev/Lua-Coddy/blob/main/Desafios)
 
 ## Progresso Atual
 
