@@ -19,3 +19,52 @@ O QUE VOCÊ VAI APRENDER:
 • Convenções de Nomenclatura 
 
 VAMOS COMEÇAR 🧑🏻‍💻
+
+~ O QUE É UMA VARIÁVEL
+
+Em Lua, criar uma variável é simples você escreve o nome que deseja em seguida um sinal de igual e depois o valor que deseja 
+
+~🧑🏻‍💻~
+> playerScore = 100
+
+Para exibir um valor na tela use a função print() e coloque o mumero da variável dentro do parêntese 
+> playerScore = 100
+print(playScore)
+
+isso exibira o numero 100 na tela
+
+o codigo:
+> health = 50 
+cria uma variável chamado health armazenado o valor 50 ✅
+
+Também podemos usar i nivel de um jogador 
+> playerLevel = 5 ✅
+Agora para armazena o número 200 em uma variável corretamente é
+> maxHealth=200 ✅
+
+Saida | Saida Esperada
+5.    | 5
+
+gameLevel = 5
+print(gamelevel) ✅
+
+~ NÚMEROS 
+
+Lua usa um tipo de codigo chamado number
+
+> playerScore = 1500
+> gameVersion = 2.1
+> temperature = -10
+
+para atribuir uma versão decimal do jogo é: gameVersion = 2.5
+
+qualquer 3.34 ou 334 é um number
+
+Agora um numero negativo armazenado cujo
+> temperature = -10
+
+Agora um número decimal atribuindo é 3.5 Por que?
+Parte inteira: 3
+Parte fracionária (ou decimal): 5
+
+o mumero decimal tem o ., ponto/virgula exemplo: 2.75 0.1 10.0 sao numeros decimais 
