@@ -1,30 +1,5 @@
-# Aula 01 - Introdução ao Lua no Coddy
+Aula 01 - Introdução ao Lua no Coddy
 
 Esta é a primeira aula do curso de Lua no Coddy.
 
-## Status atual
-
-- 📅 Ainda não comecei os exercícios
-- Vou começar amanhã (01/04/2026)
-
-## O que vou aprender (previsto)
-
-- O que é Lua e Luau
-- Como criar scripts no Roblox Studio
-- Diferença entre ServerScript e LocalScript
-- Uso básico do `print()`
-- Sintaxe inicial da linguagem
-
-## Arquivos atuais
-
-- `script1.server.lua` → Arquivo teste inicial
-
-## Próximos passos
-
-- Assistir às aulas de introdução
-- Fazer os primeiros exercícios
-- Adicionar os códigos aqui
-- Escrever o que aprendi
-
----
-Estudos no Coddy • Abril 2026
+# O que aprendi
