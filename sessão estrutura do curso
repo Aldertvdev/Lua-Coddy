@@ -1,35 +1,16 @@
-# Estrutura do curso
+Conheça a estrutura dobásico de Coddy 📚
 
-Conheça a estrutura do curso básico de Coddy 📚
+por exemplo, eu falei do print("Hello World"), vamos de exercícios 
+##
+> 🧑🏻‍🏫:  ("Wello World")
+para completar iremos usar:print 
+para isso teremos
+👋🏻 print("Hello World")
+A função print() como disse, é usado paea exibir saida em Lua
 
-## Contexto e exemplos
+lembresse que disse sobre as aspas, podendo usar ' ou "
+e se usar ambas diferentes em um único codigo?
 
-No início de cada aula, determino o contexto do que será tratado.
-
-> 🧑🏻‍🏫 Por exemplo: Fazendo o famoso "Hello World" em Lua.
-
-Nesta seção, explico sobre uma ou mais situações comuns encontradas no mundo da programação e apresento conceitos e comandos da linguagem Lua que resolvem determinados casos de uso, com exemplos.
-
-> 🧑🏻‍🏫 No caso acima, por exemplo, eu citaria o comando `print("Hello World")`, com exemplos de seu uso.
->
-> Veremos tal funcionalidade com detalhes na Aula 01.
-
-## Dicas do instrutor 🧑🏻‍🏫
-
-Em alguns exercícios, você verá o emoji do instrutor (🧑🏻‍🏫).
-
-Quando for o emoji do instrutor, é só algum lembrete ou dica importante.
-
-## Exercícios
-
-Na minha opinião, a prática é a melhor forma de fixar o conhecimento.
-
-Portanto, ao final de cada aula, deixo um ou mais exercícios, para você colocar em prática os novos conhecimentos aprendidos.
-
-Para cada exercício, tem um vídeo meu resolvendo-o, caso tenha dúvidas.
-
----
-
-Agora que você já conhece a estrutura do curso, vamos começar!
-
-Vá para a **[Aula 01](./Aula-01/README.md)**.
+• print('Good Morning") ❎ o código tera que usar aspas com pá correspondente 
+aspas como ('") causa erro pois tanto aspas quanto caracteres devem ser os mesmos 
+• print("Good Morning") ✅
