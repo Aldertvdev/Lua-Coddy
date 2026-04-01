@@ -20,14 +20,14 @@ Repositório com meus exercícios e anotações de **Lua (Luau)** enquanto estud
 - ✅ [Aula. 01](https://github.com/Aldertvdev/Lua-Coddy/blob/main/Aula-01) - Introdução e primeiros scripts
 - ⏳ Continuando as próximas aulas
 
-## Tecnologias
+## Tecnologias 🧑🏻‍💻
 
 ![Lua](https://img.shields.io/badge/Lua-00007C?style=for-the-badge&logo=lua&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
 
-## Minhas Aulas
+## Minhas Aulas 🧑🏻‍🏫
 
-- Aula-02
+- [Aula-02](https://github.com/Aldertvdev/Lua-Coddy/blob/main/Aula-02)
 - Aula-03
 - Aula-04
 
