@@ -60,11 +60,19 @@ para atribuir uma versão decimal do jogo é: gameVersion = 2.5
 
 qualquer 3.34 ou 334 é um number
 
-Agora um numero negativo armazenado cujo
+❗Agora um numero negativo armazenado cujo
 > temperature = -10
 
-Agora um número decimal atribuindo é 3.5 Por que?
+❗Agora um número decimal atribuindo é 3.5 Por que?
 Parte inteira: 3
 Parte fracionária (ou decimal): 5
 
-o mumero decimal tem o ., ponto/virgula exemplo: 2.75 0.1 10.0 sao numeros decimais 
+❗O mumero decimal tem o ., ponto/virgula exemplo: 2.75 0.1 10.0 sao numeros decimais 
+
+🧑🏻‍💻 Para criar duas variáveis para armazenar informações numéricas: playScore | 250 | game version | 1.5 executará o código 
+
+> local playerScore = 2500
+local gameVersion = 1.3
+
+print(playerScore)
+print(gameVersion)
